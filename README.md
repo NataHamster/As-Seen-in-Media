@@ -26,18 +26,6 @@ Admins can create/edit posts, mark one post as Featured, upload preview images, 
 
 ---
 
-## Project Structure
-.
-├─ index.php                 # Public frontend (media list)
-├─ adminpanel.php            # Admin panel
-├─ db.php                    # Database connection
-├─ img/
-│  └─ media/                 # Uploaded images (gitignored)
-│  └─ media-link/            # Uploaded logos (gitignored)
-└─ README.md
-
----
-
 ## Database
 
 Tables (minimal example—adjust to your needs):
